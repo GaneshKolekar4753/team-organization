@@ -1,0 +1,25 @@
+.team{
+  
+}
+.rolename {
+/* display: inline; */
+
+  margin: auto;
+  background-color: rgb(109, 251, 99);
+  border-radius: 5px;
+  max-width: max-content;
+}
+
+.rolename h2{
+  color: black;
+    padding: 2px 15px 2px 15px;
+}
+.employeelist {
+  width: 70%;
+  margin: auto;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+}

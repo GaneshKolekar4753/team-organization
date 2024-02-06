@@ -1,0 +1,24 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .footerContent {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footerColumn {
+    flex: 1;
+  }
+  
+  .footerColumn h3 {
+    margin-bottom: 10px;
+  }
+  
+  .footerBottom {
+    margin-top: 20px;
+    text-align: center;
+  }
+  

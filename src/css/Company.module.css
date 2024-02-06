@@ -1,0 +1,22 @@
+.companyDetails {
+    margin-bottom:30px ;
+}
+.borderBottom{
+    margin: auto;
+    width: 50%;
+    border-bottom: 7px dotted rgb(109, 251, 99);
+}
+.companyName {
+  margin: auto;
+  background-color: rgb(109, 251, 99);
+  border-radius: 5px;
+  max-width: max-content;
+}
+.companyName h2 {
+    color: black;
+    padding: 10px 20px 10px 20px;
+}
+.companyDetails p {
+    font-size: 1.2em;
+    font-weight: 500;
+}

@@ -1,0 +1,25 @@
+.employeeProfile {
+    text-align: center;
+    margin: 5px 20px 5px 20px;
+  }
+  
+  .profileImage img {
+    
+    width: 150px; /* Adjust as needed */
+    height: 150px; /* Adjust as needed */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image fills the circular space */
+    margin: 0 auto; /* Centers the image horizontally */
+    
+  }
+
+  
+  .profileDetails p {
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .profileDetails h2 {
+    margin-bottom: 2px; /* Adjust spacing between name and role */
+  }
+  
